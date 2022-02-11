@@ -1,1 +1,1 @@
-# svm_with_caltech101_sv-
+# Kernel methods and SVMs
